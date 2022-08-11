@@ -1,4 +1,10 @@
-h1 {
-  color: blueviolet;
-  text-align: center;
+.border {
+  border-color: brown;
+  display: block;
+  margin: 10px 100px;
+}
+
+.col-6 {
+  display: block;
+  margin: 0 auto;
 }
